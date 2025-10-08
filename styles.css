@@ -1,0 +1,52 @@
+.body {
+    margin: 0;
+}
+
+.pain-abbrs {
+    text-decoration: none;
+}
+
+.em {
+    font-style: normal;
+    font-weight: 900;
+}
+
+.site-header {
+    background-color: darksalmon;
+    padding: 30px;
+    border-bottom: 4px solid #000;
+}
+
+.site-id {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.site-id {
+    margin: 0 0 40px 0;
+}
+
+.site-content {
+    padding: 0 30px;
+}
+
+.site-footer {
+    color: #fff;
+    background-color: #C00;
+    padding: 30px;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-links {
+    list-style-type: none;
+    padding: 0px;
+}   
+
+.footer-anchor {
+    color: #fff;
+    text-decoration: none;
+}
